@@ -1,1 +1,3 @@
 My primary responsibility in this project is to integrate the core game logic with the user interface and ensure smooth player interaction. This involves connecting JavaScript functions (like card draws, turn switches, and score updates) to the visual elements on the screen. I also handle testing the game flow thoroughly—checking for edge cases, verifying win conditions, and making sure UI reflects the current game state accurately
+
+Additionally, I assist in debugging Copilot-generated code, refining prompts, and ensuring that all components (logic and layout) work cohesively. I collaborate closely with the logic and UI teams to maintain consistency and troubleshoot integration issues during development
